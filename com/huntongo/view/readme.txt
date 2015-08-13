@@ -1,0 +1,1 @@
+For all view java files and servlets
